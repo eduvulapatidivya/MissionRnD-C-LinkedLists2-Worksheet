@@ -20,5 +20,10 @@ struct node {
 };
 
 struct node * insertAtEveryKthNode(struct node *head, int K) {
+	if (head==NULL||K<=0)
 	return NULL;
+	else
+	{
+
+	}
 }
